@@ -1,0 +1,19 @@
+#relational operators
+Statement_one=(5 * 2) - 1 == 8 + 1
+print(Statement_one)
+
+Statement_two=13 - 6 != (3 * 2) + 1
+print(Statement_two)
+Statement_three=3 * (2 - 1) == 4 - 1
+print(Statement_three)
+
+#boolean expressions
+statement_one = "Dogs are mammals."
+print(statement_one)
+
+statement_two = "My dog is named Pavel."
+print(statement_two)
+statement_three = "Dogs make the best pets."
+print(statement_three)
+statement_four = "Cats are female dogs."
+print(statement_four)
