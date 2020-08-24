@@ -1,3 +1,5 @@
+a.Checking Boolean and statement.
+b.Checking graduation requirements at Calvin Coolidge’s Cool College, you also need to have a GPA of 2.0 or higher and credits of 120 or higher. write the graduation_reqs function so it takes two inputs, gpa and credits, and checks to see if a student meets both requirements using an and statement. If they do, return the string "You meet the requirements to graduate!"
 # 'a'
 statement_one =(2 + 2 + 2 >= 6) and (-1 * -1 < 0)
 print(statement_one)
